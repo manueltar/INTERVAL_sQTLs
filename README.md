@@ -1,0 +1,25 @@
+## Run from the command line
+
+\$ bash ~/Scripts/Wraper_scripts/84_sQTLs_INTERVAL.sh /group/soranzo/manuel.tardaguila/Paper_bits/INTERVAL_sQTLs/ Run_LDR
+
+## ATU genes with sQTLs in INTERVAL RNA-seq
+
+MFSD2B
+PILRB,STAG3L5P-PVRIG2P-PILRB
+TYMP
+ANK1
+MFSD2B,FKBP1B
+ARSA
+EVI5
+NPRL3
+VMP1
+GFI1B
+SLC11A1
+IKZF1
+SCO2,TYMP
+PILRB,STAG3L5P-PVRIG2P-PILRB,PVRIG2P
+EEFSEC
+TYMP,ODF3B
+TAF8
+GATA2
+RASAL3
